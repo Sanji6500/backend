@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6001a79a.css",
+    "main.js": "/static/js/main.f5457df0.js",
+    "static/js/483.0537e0c4.chunk.js": "/static/js/483.0537e0c4.chunk.js",
+    "static/media/Rabatt.svg": "/static/media/Rabatt.1dd59e55baf5cd0ab2c45fc0aecd8bd6.svg",
+    "static/media/delete.svg": "/static/media/delete.2880718d6dc322429aeebb94041cb74e.svg",
+    "static/media/search.svg": "/static/media/search.e371e55188a8211cbd82fe3496fd9b69.svg",
+    "static/media/Vistbar.svg": "/static/media/Vistbar.500b61a285c122239f4e5fd366bbd953.svg",
+    "static/media/VistbartMonthly.svg": "/static/media/VistbartMonthly.038038dce691b139ed25f7e67001822a.svg",
+    "static/media/AwaitProduct.svg": "/static/media/AwaitProduct.50361ce234d765e7c817aebb601d2b0f.svg",
+    "index.html": "/index.html",
+    "static/media/emptyUser.svg": "/static/media/emptyUser.fca0901f1bf2094b3e947dd8da83a8b6.svg",
+    "static/media/logo.svg": "/static/media/logo.702759420fce2c6570a9d2cb4df9b6a6.svg",
+    "static/media/AddSomtheing.svg": "/static/media/AddSomtheing.30753e0cb2f8962247695a9ec691fef7.svg",
+    "static/media/icons-search.svg": "/static/media/icons-search.e0b696f327468be32ac4c5e19adcf6ce.svg",
+    "static/media/indexing.svg": "/static/media/indexing.e2296facc512257d5904efa86b6a932c.svg",
+    "static/media/success.svg": "/static/media/success.2ef852e7dd820495303c59edf07abc12.svg",
+    "static/media/false.svg": "/static/media/false.4bbc1561b5ac2fe2bed3c0ca173ef19e.svg",
+    "main.6001a79a.css.map": "/static/css/main.6001a79a.css.map",
+    "main.f5457df0.js.map": "/static/js/main.f5457df0.js.map",
+    "483.0537e0c4.chunk.js.map": "/static/js/483.0537e0c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6001a79a.css",
+    "static/js/main.f5457df0.js"
+  ]
+}
