@@ -116,8 +116,9 @@ router.get("/Current-ads", async (req, res) => {
     .populate([
       {
         path: "ProductID",
-        select: "ProductName",
+        populate: { path: "SubCategory_ID" },
       },
+      { path: "Shop_ID" },
     ])
 
     .then((result) => res.json({ Success: true, result }))
