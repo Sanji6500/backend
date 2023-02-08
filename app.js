@@ -40,6 +40,9 @@ app.listen(port, () => {
   console.log("Server is work  on  port " + port);
 });
 
+app.listen(443, () => {
+  console.log("Server is work  on  port  443");
+});
 if (process.env.NODE_ENV === "production") {
   app.use(express.static(path.join(__dirname, "/build")));
   app.get("*", (req, res) => {
